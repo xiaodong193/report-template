@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Excel 临时文件
+.~*.xlsm
+.~*.xlsx
+.~*.xls
+~$*.xl*
+~$*.xls
+
+# Word 临时文件
+.~*.docx
+.~*.doc
+~$*.doc*
+
+# 其他临时文件
+*.tmp
+*.temp
+*.bak
+*~
+
+# Synology
+@eaDir
